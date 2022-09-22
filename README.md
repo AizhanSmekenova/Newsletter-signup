@@ -13,6 +13,7 @@ You can run this project locally just do:
 
 * clone branch review with git clone https://github.com/AizhanSmekenova/Newsletter-signup.git or fork it and then clone it from your forked repo
 * cd Newsletter-signup
+* npm install
 * npm install nodemon
 * npx nodemon Newsletter-signup
 * then it will be available at http://localhost:XXXX/ as per the message you get in console
